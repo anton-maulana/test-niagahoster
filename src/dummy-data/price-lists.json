@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "packet_name": "Bayi",
+      "original_price": 19900,
+      "discount_price": 14900,
+      "total_users": 936,
+      "features": [
+        "0.5 X RESOURCE POWER",
+        "500 MB Disk Spaces",
+        "Unlimited Bandwidth",
+        "Unlimited Databases",
+        "1 Domain",
+        "Instant Backup",
+        "Unlimited SSl Gratis Selamanya"
+      ],
+      "is_best_seller": false
+    },
+    {
+      "packet_name": "Pelajar",
+      "original_price": 46900,
+      "discount_price": 23450,
+      "total_users": 4168,
+      "features": [
+        "1X RESOURCE POWER",
+        "Unlimited Disk Spaces",
+        "Unlimited Bandwidth",
+        "Unlimited Pop3 Email",
+        "Unlimited Databases",
+        "10 Addon Domain",
+        "Instant Backup",
+        "Domain Gratis Selamanya Backup",
+        "Unlimited SSl Gratis Selamanya"
+      ],
+      "is_best_seller": false
+    },
+    {
+      "packet_name": "Personal",
+      "original_price": 58900,
+      "discount_price": 38900,
+      "total_users": 10017,
+      "features": [
+        "2X RESOURCE POWER",
+        "Unlimited Disk Spaces",
+        "Unlimited Bandwidth",
+        "Unlimited Pop3 Email",
+        "Unlimited Databases",
+        "Unlimited Addon Domain",
+        "Instant Backup",
+        "Domain Gratis Selamanya Backup",
+        "Private Name Server",
+        "Unlimited SSl Gratis Selamanya"
+      ],
+      "is_best_seller": true
+    },
+    {
+      "packet_name": "Bisnis",
+      "original_price": 109900,
+      "discount_price": 65900,
+      "total_users": 3552,
+      "features": [
+        "3X RESOURCE POWER",
+        "Unlimited Disk Spaces",
+        "Unlimited Bandwidth",
+        "Unlimited Pop3 Email",
+        "Unlimited Databases",
+        "Unlimited Addon Domain",
+        "Magic Auto Backup & Restore",
+        "Domain Gratis Selamanya Backup",
+        "Unlimited SSl Gratis Selamanya",
+        "Private Name Server",
+        "Prioritas Layanan Support",
+        "★★★★★",
+        "SpamExpert Pro Mail Protection"
+      ],
+      "is_best_seller": false
+    }
+  ]
+}
